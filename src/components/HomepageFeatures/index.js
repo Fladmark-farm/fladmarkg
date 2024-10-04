@@ -4,17 +4,16 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Bærekraft',
+    Svg: require('@site/static/img/hens.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Våre høner får alltid noen timer ute i det fri.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Geiter',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
