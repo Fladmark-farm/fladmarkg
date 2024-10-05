@@ -1,6 +1,8 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+import DocusaurusImageUrl from '@site/static/img/docusaurus.png';
 
 const FeatureList = [
   
