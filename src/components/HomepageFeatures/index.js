@@ -3,22 +3,13 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
+  
   {
     title: 'Bærekraft',
-    Svg: require('@site/static/img/hens.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Våre høner får alltid noen timer ute i det fri.
-      </>
-    ),
-  },
-  {
-    title: 'Geiter',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
       </>
     ),
   },
@@ -29,6 +20,15 @@ const FeatureList = [
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
         be extended while reusing the same header and footer.
+      </>
+    ),
+  },
+  {
+    title: 'Know Our Projects',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+        hei.
       </>
     ),
   },

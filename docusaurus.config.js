@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Fladmark gårdsbruk',
+  title: 'Fladmark gårdsmarked',
   tagline: 'Med fokus på bærekraft',
 
   // Set the production url of your site here
@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/IMG_E6595.JPG',
       navbar: {
         title: 'Fladmark gård',
         items: [
