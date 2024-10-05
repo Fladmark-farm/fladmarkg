@@ -8,7 +8,7 @@ Vi har mange fine geiter på gården.
 
 ## Petter
 
-Petter er vår tammeste geit.
+Petter er vår tammeste geit. Han er født i 2021.
 
 ## Tellus
 
