@@ -6,7 +6,7 @@ const FeatureList = [
   
   {
     title: 'Bærekraft',
-    Svg: require('@site/static/img/hens.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Våre høner får alltid noen timer ute i det fri.
@@ -28,9 +28,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        moja global has many projects apart from FLINT. Be a part of one of those projects by
-        writing code, improving documentation or just suggest us features that you think will be
-        helpful to the users.
+        hei.
       </>
     ),
   },

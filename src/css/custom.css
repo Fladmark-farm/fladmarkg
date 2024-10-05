@@ -28,3 +28,34 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.custom-blog-layout {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sidebar {
+  width: 25%;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-right: 1px solid #ddd;
+}
+
+.sidebar h3 {
+  margin-top: 0;
+}
+
+.custom-blog-post {
+  margin: 20px 0;
+}
+
+.custom-blog-post h2 a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.custom-blog-post time {
+  font-size: 0.9em;
+  color: #666;
+}
+
