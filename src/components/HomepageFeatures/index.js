@@ -3,6 +3,7 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
+  
   {
     title: 'Bærekraft',
     Svg: require('@site/static/img/hens.svg').default,
@@ -13,22 +14,23 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Geiter',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
     title: 'Powered by React',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
         be extended while reusing the same header and footer.
+      </>
+    ),
+  },
+  {
+    title: 'Know Our Projects',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+        moja global has many projects apart from FLINT. Be a part of one of those projects by
+        writing code, improving documentation or just suggest us features that you think will be
+        helpful to the users.
       </>
     ),
   },
