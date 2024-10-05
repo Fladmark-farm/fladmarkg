@@ -21,7 +21,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'fladmark-farm', // Usually your GitHub org/user name.
   projectName: 'fladmarkg', // Usually your repo name.
-  deploymentBranch: 'webpages',
+  deploymentBranch: 'main',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -60,7 +60,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/IMG_E6595.JPG',
       navbar: {
-        title: 'Fladmark gård',
+        title: 'Fladmark',
         items: [
           {
             type: 'docSidebar',
@@ -74,6 +74,14 @@ const config = {
       footer: {
         style: 'dark',
         links: [
+        {title: 'Fladmark gårdsmarked',
+              items: [
+                {
+                  label: 'Skjoldenveien 329, 1815 Askim',
+              href: 'https://maps.app.goo.gl/2ZoLbQBHoAqgWfiF8',
+              }
+            ]
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Fladmark gårdsmarked`,
       },
