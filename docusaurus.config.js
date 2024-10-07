@@ -19,9 +19,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'fladmark-farm', // Usually your GitHub org/user name.
+  organizationName: 'Fladmark-farm', // Usually your GitHub org/user name.
   projectName: 'fladmarkg', // Usually your repo name.
-  deploymentBranch: 'main',
+  deploymentBranch: 'webpages',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
